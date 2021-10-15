@@ -24,7 +24,7 @@ Os contornos se baseiam nas arestas( uso da biblioteca cv.Canny)
 60Hz => No período de um segundo acontece uma atualização de 60 quadros
 Números de oscilação da onda em um segundo
 
-##Convolação de Imagem
+##Convolução de Imagem
 
 Convolução é o processo de calcular a intensidade de um determinado pixel em função da intensidade de seus vizinhos. 
 
